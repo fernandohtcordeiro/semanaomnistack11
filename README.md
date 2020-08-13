@@ -8,7 +8,7 @@ Node.js
 ReactJS
 React Native
 
-Primeiro Dia
+Primeiro Dia...
 
 Apresentado a Aplicação (Be The Hero)
 Configurado o ambiente de desenvolvimento
@@ -18,7 +18,7 @@ Explicando sobre React & SPA
 Criado o projeto com ReactJS
 Explicando sobre React Native & Expo
 
-Segundo Dia
+Segundo Dia...
 
 Node.js & Express
 Configurando Nodemon
@@ -30,7 +30,7 @@ Construção do back-end
 Adicionando módulo CORS
 Enviando back-end ao Github
 
-Terceiro Dia
+Terceiro Dia...
 
 Limpando a estrutura
 Conceitos do React
@@ -42,7 +42,7 @@ Cadastro de um novo caso
 Conectando aplicação à API
 Enviar projeto ao Github
 
-Quarto Dia
+Quarto Dia...
 
 Instalação do Expo
 Criando projeto React Native
